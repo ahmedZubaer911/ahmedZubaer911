@@ -83,15 +83,15 @@ Hi, I'm **Md. Zubaer Ahmed**, a Computer Science & Engineering student and aspir
 # 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmedzubaer911&show_icons=true&locale=en&layout=compact" alt="Top Languages">
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=ahmedZubaer911&layout=compact&langs_count=6" alt="Top Languages">
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ahmedzubaer911&show_icons=true&locale=en" alt="GitHub Stats">
+  <img src="https://github-readme-stats.shion.dev/api?username=ahmedZubaer911&show_icons=true" alt="GitHub Stats">
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedzubaer911" alt="GitHub Streak">
+  <img src="https://streak-stats.demolab.com?user=ahmedZubaer911" alt="GitHub Streak">
 </p>
 
 ---
